@@ -144,7 +144,7 @@ namespace Hangman
 
             //game loop
             //while wrong_counter less than  7
-            while (wrong_counter < 7)
+            while (wrong_counter < 6)
             {
 
                 //ask user if would like to guess letter or word
